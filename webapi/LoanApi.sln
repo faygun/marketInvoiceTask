@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanApi", "webapi\LoanApi.csproj", "{BA81A36F-F93F-4CB7-BD19-466DD15BB7DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanApi.Tests", "webapi.Tests\LoanApi.Tests.csproj", "{F873AC0C-899C-4A5A-9295-7298190C0A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA81A36F-F93F-4CB7-BD19-466DD15BB7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA81A36F-F93F-4CB7-BD19-466DD15BB7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA81A36F-F93F-4CB7-BD19-466DD15BB7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA81A36F-F93F-4CB7-BD19-466DD15BB7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F873AC0C-899C-4A5A-9295-7298190C0A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F873AC0C-899C-4A5A-9295-7298190C0A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F873AC0C-899C-4A5A-9295-7298190C0A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F873AC0C-899C-4A5A-9295-7298190C0A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5992383-E18B-4EF2-95CF-D0FDE5B3C282}
+	EndGlobalSection
+EndGlobal

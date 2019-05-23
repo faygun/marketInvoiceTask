@@ -1,0 +1,6 @@
+webapi/webapi/obj/
+webapi/webapi/bin/
+webapi/webapi.Tests/obj/
+webapi/webapi.Tests/bin/
+webapi/packages/
+webapi/.vs/
